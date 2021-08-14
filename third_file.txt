@@ -1,1 +1,4 @@
 This is a third file added to my project
+
+Adding line to my third file.
+Git is really useful.
